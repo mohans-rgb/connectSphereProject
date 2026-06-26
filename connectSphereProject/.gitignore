@@ -1,0 +1,25 @@
+# IntelliJ IDEA - DO NOT commit these
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Maven build output
+target/
+build/
+
+# Spring Boot
+HELP.md
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+*.env
+.env
+application-local.properties
+application-local.yml
